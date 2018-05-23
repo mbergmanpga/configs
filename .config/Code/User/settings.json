@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "mssql.connections": [
+        {
+            "authenticationType": "SqlLogin",
+            "server": "localhost",
+            "database": "",
+            "user": "mbergman2",
+            "password": "",
+            "savePassword": false,
+            "profileName": "mbergman2 localhost"
+        },
+        {
+            "authenticationType": "SqlLogin",
+            "server": "localhost",
+            "database": "",
+            "user": "SA",
+            "password": "",
+            "savePassword": true,
+            "profileName": "SA localhost"
+        }
+    ],
+    "vsicons.dontShowNewVersionMessage": true
+}
